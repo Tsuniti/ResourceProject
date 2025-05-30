@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Проект Ресурси</string>
+    <string name="portrait">Портретна</string>
+    <string name="landscape">Альбомна</string>
+    <string name="sensor">Сенсорна</string>
+    <string name="locale_name">UK</string>
+    <string name="orientations">Орієнтації</string>
+    <string name="locales">Локалізації</string>
+    <string name="default_locale">Дефолтна</string>
+    <string name="english_gb">Англійська Британська</string>
+    <string name="ukrainian">Українська</string>
+    <string name="themes">Теми</string>
+    <string name="light">Світла</string>
+    <string name="dark">Темна</string>
+    <string name="colored">Кольорова</string>
+    <string name="unspecified">Невизначена</string>
+    <string name="sensor_portrait">Портретна (по сенсорну)</string>
+    <string name="sensor_landscape">Альбомна (по сенсору)</string>
+    <string name="full_sensor">Повний сенсор</string>
+    <string name="full_user">Користувацька (повна)</string>
+    <string name="locked">Заблокована</string>
+</resources>
