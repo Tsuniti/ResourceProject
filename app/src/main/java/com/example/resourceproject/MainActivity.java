@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
             recreate();
 
         }
-        else if (itemId == R.id.ruLocaleMenu) {
+        else if (itemId == R.id.deLocaleMenu) {
             editor.putString("locale", Locale.forLanguageTag("de").toLanguageTag()).apply();
             recreate();
 
