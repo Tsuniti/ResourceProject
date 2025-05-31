@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resource Project</string>
+    <string name="portrait">Hochformat</string>
+    <string name="landscape">Querformat</string>
+    <string name="sensor">Sensor</string>
+    <string name="locale_name">DE</string>
+    <string name="orientations">Ausrichtungen</string>
+    <string name="locales">Gebietsschemata</string>
+    <string name="default_locale">Standard</string>
+    <string name="english_gb">Englisch (GB)</string>
+    <string name="ukrainian">Ukrainisch</string>
+    <string name="themes">Designs</string>
+    <string name="light">Hell</string>
+    <string name="dark">Dunkel</string>
+    <string name="colored">Farbig</string>
+    <string name="unspecified">Nicht angegeben</string>
+    <string name="sensor_portrait">Sensor-Hochformat</string>
+    <string name="sensor_landscape">Sensor-Querformat</string>
+    <string name="full_sensor">Voller Sensor</string>
+    <string name="full_user">Vollständig vom Benutzer</string>
+    <string name="locked">Gesperrt</string>
+    <string name="russian">Russisch</string>
+    <string name="german">Deutsch</string>
+</resources>

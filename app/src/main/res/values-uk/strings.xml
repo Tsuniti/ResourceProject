@@ -20,4 +20,6 @@
     <string name="full_sensor">Повний сенсор</string>
     <string name="full_user">Користувацька (повна)</string>
     <string name="locked">Заблокована</string>
+    <string name="russian">Російський</string>
+    <string name="german">Німецький</string>
 </resources>

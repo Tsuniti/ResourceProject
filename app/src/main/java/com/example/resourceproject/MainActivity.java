@@ -3,7 +3,6 @@ package com.example.resourceproject;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
-import android.content.pm.ConfigurationInfo;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.Menu;
@@ -119,6 +118,16 @@ public class MainActivity extends AppCompatActivity {
         }
         else if (itemId == R.id.ukLocaleMenu) {
             editor.putString("locale", Locale.forLanguageTag("uk").toLanguageTag()).apply();
+            recreate();
+
+        }
+        else if (itemId == R.id.ruLocaleMenu) {
+            editor.putString("locale", Locale.forLanguageTag("ru").toLanguageTag()).apply();
+            recreate();
+
+        }
+        else if (itemId == R.id.ruLocaleMenu) {
+            editor.putString("locale", Locale.forLanguageTag("de").toLanguageTag()).apply();
             recreate();
 
         }
